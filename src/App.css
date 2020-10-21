@@ -1,0 +1,14 @@
+*{
+    margin:0;
+}
+.app{
+    background-color: #111111;
+}
+
+@media only screen and (max-width: 600px){
+    .app{
+        /* text-align: center; */
+        /* align-items: center; */
+        background-color: black;
+    }
+}
